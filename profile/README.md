@@ -28,6 +28,7 @@ firms turn the hours their teams work into accurate bills and real profit:
 - **`timix-mcp`** — connect Timix.AI to any MCP client (Claude, ChatGPT, Cursor): connection details, tool catalog, and the official registry manifest.
 - **`timix-zapier`** — the official Zapier integration, wiring Timix.AI into thousands of apps.
 - **`timix-workato`** — the official Workato custom connector (triggers + create actions).
+- **`timix-api-examples`** — copy-paste examples (curl, Node.js, Python) for the Integration REST API.
 
 ### Learn more
 
